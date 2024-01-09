@@ -1,0 +1,22 @@
+.container {
+  height: 48px;
+  width: 100%;
+  display: flex;
+}
+
+.item {
+  padding: 0 10px;
+  height: 100%;
+  font-size: 20px;
+  line-height: 48px;
+  flex: 1 1 33%;
+  box-sizing: border-box;
+}
+
+.item2 {
+  text-align: center;
+}
+
+.item3 {
+  text-align: end;
+}

@@ -1,0 +1,25 @@
+.container{
+  padding: 20px 24px 0 24px;
+  :global{
+    h1,h2{
+      text-align: center;
+      line-height: 1.5;
+    }
+    h1{
+      font-size: 18px;
+      font: 600;
+    }
+    h2{
+      font-size: 14px;
+    }
+  }
+}
+
+.card{
+  margin-top: 10px;
+  :global{
+    .ant-card-cover{
+      height: 290px;
+    }
+  }
+}

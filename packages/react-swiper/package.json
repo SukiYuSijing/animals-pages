@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "swiper": "^10.0.0",
+    "@ant-design/icons": "^5.2.6",
+    "ant-design": "^1.0.0",
+    "antd": "^5.12.8"
+  },
+  "devDependencies": {
+    "vite": "^4.0.4"
+  },
+  "main": "./src/Slide.tsx",
+  "license": "MIT",
+  "name": "swiper-react-effect-coverflow",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "start": "vite"
+  },
+  "tags": [
+    "swiper"
+  ]
+}
